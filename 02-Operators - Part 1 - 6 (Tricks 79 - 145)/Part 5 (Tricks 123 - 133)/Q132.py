@@ -1,0 +1,1 @@
+print('mike' > 'Mike') #True
