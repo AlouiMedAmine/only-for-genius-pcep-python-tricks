@@ -1,0 +1,1 @@
+num = int(float(input('How many do you need?')))

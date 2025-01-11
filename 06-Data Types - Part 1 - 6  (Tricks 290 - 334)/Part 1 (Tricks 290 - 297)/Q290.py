@@ -1,0 +1,1 @@
+print('x', 'y', 'z', sep='sep')
